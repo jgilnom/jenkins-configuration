@@ -2,6 +2,6 @@ jenkins:
   systemMessage: "Jenkins on Okteto by JgN autoconfigured with JCasC"
 tool:
   git:
-    installatiions:
+    installations:
       - name: git
         home: /usr/local/bin/git
