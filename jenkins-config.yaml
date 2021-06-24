@@ -1,17 +1,2 @@
 jenkins:
   systemMessage: "Jenkins on Okteto by JgN autoconfigured with JCasC"
-tool:
-  git:
-    installatiions:
-      - name: git
-        home: /usr/local/bin/git
-credentials:
-  system:
-    domainCredentials:
-      - credentials:
-        - usernamePassword:
-            description: myfirstcred
-            id: mycred
-            password: mypass
-            scope: GLOBAL
-            username: admin
