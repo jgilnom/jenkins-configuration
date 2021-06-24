@@ -5,3 +5,13 @@ tool:
     installations:
       - name: git
         home: /usr/bin/git
+#credentials:
+#  system:
+#    domainCredentials:
+#      - credentials:
+#        - usernamePassword:
+#            description: github
+#            id: mycred
+#            password: mypass
+#            scope: GLOBAL
+#            username: admin
