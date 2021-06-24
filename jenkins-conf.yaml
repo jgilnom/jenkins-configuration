@@ -1,0 +1,2 @@
+jenkins:
+  systemMessage: "Jenkins on Okteto by JgN autoconfigured with JCasC"
