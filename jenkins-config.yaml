@@ -10,8 +10,8 @@ credentials:
     domainCredentials:
       - credentials:
         - usernamePassword:
-          description: myfirstcred
-          id: mycred
-          password: mypass
-          scope: GLOBAL
-          username: admin
+            description: myfirstcred
+            id: mycred
+            password: mypass
+            scope: GLOBAL
+            username: admin
